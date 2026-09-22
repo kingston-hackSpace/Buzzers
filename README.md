@@ -28,7 +28,7 @@ Watch [this tutorial to hear (and learn) the difference](https://www.youtube.com
 ------
 ## WIRING
 
-[Active Buzzer wiring diagram here]
+[Active Buzzer wiring diagram here](https://github.com/kingston-hackSpace/Buzzers/blob/main/Buzzer_active(module)_bb.jpg)
 
 [Passive Buzzer wiring diagram here]
 
