@@ -32,6 +32,8 @@ Watch [this tutorial to hear (and learn) the difference](https://www.youtube.com
 
 [Active Buzzer wiring diagram here](https://github.com/kingston-hackSpace/Buzzers/blob/main/Buzzer_active(module)_bb.jpg)
 
+This active buzzer operates around the audible 2 kHz frequency range. It produces sound by itself, without needing an external frequency generator.
+
 ### CODE and INSTRUCTIONS
 
 - Upload [this code](https://github.com/kingston-hackSpace/Buzzers/blob/main/Buzzer_active(module).ino) to your Arduino Board. The buzzer should emit a steady pattern sound. 
@@ -46,6 +48,14 @@ Watch [this tutorial to hear (and learn) the difference](https://www.youtube.com
 [Passive Buzzer wiring diagram here]. Note: Passive buzzers don't have polarity.
 
 ### CODE and INSTRUCTIONS
+
+Passive buzzers need a square wave signal to produce sound. By changing the frequency of the square wave you can change the pitch of the sound.
+
+The Arduino has a built in function called **tone()** that generates square waves at a range of frequencies:
+
+    tone(pin, frequency, duration);
+
+The **noTone()** function can be used to turn off the tone() function.
 
 
 
