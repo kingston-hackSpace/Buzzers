@@ -12,7 +12,7 @@ Watch [this tutorial to hear (and learn) the difference](https://www.youtube.com
 
 
 ------
-# TUTORIAL: From active to passive buzzer
+# TUTORIAL
 
 ------
 ## HARDWARE
