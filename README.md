@@ -57,7 +57,13 @@ The Arduino has a built in function called **tone()** that generates square wave
 
 The **noTone()** function can be used to turn off the tone() function.
 
-- Upload [this "notes" code](https://github.com/kingston-hackSpace/Buzzers/blob/main/Buzzer_passive_notes.ino) to your Arduino board. 
+  - Upload [this "notes" code](https://github.com/kingston-hackSpace/Buzzers/blob/main/Buzzer_passive_notes.ino) to your Arduino board.
+
+Explore more!
+
+- In your Arduino IDE, go to **File > Examples... > 02.Digital > ToneMelody**
+
+   
 
 
 
