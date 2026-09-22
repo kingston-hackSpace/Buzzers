@@ -25,6 +25,12 @@ Watch [this tutorial to hear (and learn) the difference](https://www.youtube.com
 
 - Active buzzer
 
+------
+## WIRING
+
+[Active Buzzer wiring diagram here]
+
+[Passive Buzzer wiring diagram here]
 
 ------
 ## CODE and INSTRUCTIONS
