@@ -45,7 +45,7 @@ This active buzzer operates around the audible 2 kHz frequency range. It produce
 
 ### WIRING
 
-[Passive Buzzer wiring diagram here]. Note: Passive buzzers don't have polarity.
+[Passive Buzzer wiring diagram here](https://github.com/kingston-hackSpace/Buzzers/blob/main/Buzzer_passive_bb.jpg). Note: Passive buzzers don't have polarity.
 
 ### CODE and INSTRUCTIONS
 
