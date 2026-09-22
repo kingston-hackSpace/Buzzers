@@ -26,15 +26,26 @@ Watch [this tutorial to hear (and learn) the difference](https://www.youtube.com
 - Active buzzer
 
 ------
-## WIRING
+## ACTIVE BUZZER (MODULE)
+
+### WIRING
 
 [Active Buzzer wiring diagram here](https://github.com/kingston-hackSpace/Buzzers/blob/main/Buzzer_active(module)_bb.jpg)
 
-[Passive Buzzer wiring diagram here]
+### CODE and INSTRUCTIONS
 
+- Upload [this code] to your Arduino Board.
+
+- Change the *delay* value to hear changes in the beeping patterns.
+  
 ------
-## CODE and INSTRUCTIONS
+## PASSIVE BUZZER
 
+### WIRING
+
+[Passive Buzzer wiring diagram here]. Note: Passive buzzers don't have polarity.
+
+### CODE and INSTRUCTIONS
 
 
 
