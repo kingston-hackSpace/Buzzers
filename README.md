@@ -61,7 +61,7 @@ The **noTone()** function can be used to turn off the tone() function.
 
 Explore more!
 
-- In your Arduino IDE, go to **File > Examples... > 02.Digital > ToneMelody**
+- In your Arduino IDE, go to **File > Examples... > 02.Digital > ToneMelody**. A new Arduino sketch will open. Upload this new code to your board. 
 
    
 
