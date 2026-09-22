@@ -34,7 +34,7 @@ Watch [this tutorial to hear (and learn) the difference](https://www.youtube.com
 
 ### CODE and INSTRUCTIONS
 
-- Upload [this code](https://github.com/kingston-hackSpace/Buzzers/blob/main/Buzzer_active(module).ino) to your Arduino Board.
+- Upload [this code](https://github.com/kingston-hackSpace/Buzzers/blob/main/Buzzer_active(module).ino) to your Arduino Board. The buzzer should emit a steady pattern sound. 
 
 - Change the *delay* value to hear changes in the beeping patterns.
   
