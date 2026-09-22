@@ -9,3 +9,26 @@ There are two main types you'll come across:
 **Active buzzers** have a built-in oscillator, so they only need a steady DC voltage (like HIGH from a digital pin) to produce a single, fixed-pitch tone. They're simpler to wire up but far less flexible — you get one beep, not a tune.
 
 Watch [this tutorial to hear (and learn) the difference](https://www.youtube.com/watch?v=gj-H_agfd6U&t=210s) between passive and active buzzers
+
+
+------
+# TUTORIAL: From active to passive buzzer
+
+------
+## HARDWARE
+
+- Arduino UNO
+
+- Push-button
+
+- Passive buzzer
+
+- Active buzzer
+
+
+------
+## CODE and INSTRUCTIONS
+
+
+
+
